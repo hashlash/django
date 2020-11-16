@@ -10,6 +10,12 @@ def gettext_noop(s):
     return s
 
 
+##############################
+# GSOC Django Secret Manager #
+##############################
+
+SECRET_BACKENDS = []
+
 ####################
 # CORE             #
 ####################
